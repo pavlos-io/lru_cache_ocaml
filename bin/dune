@@ -1,0 +1,4 @@
+(executable
+ (public_name lru_cache)
+ (name main)
+ (libraries lru_cache core))
